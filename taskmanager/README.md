@@ -7,8 +7,9 @@ The Task Manager is a web application designed to help users efficiently organiz
   #### Open your terminal and run the following command to create a new Vite project with React:
         npm create vite@latest
 #### Navigate to the Project Directory:
-    cd fooddelivery
+    cd taskmanager
 #### Install Dependencies:
     npm install
 #### Start the Development Server:
     npm run dev
+
